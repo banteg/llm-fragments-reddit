@@ -15,7 +15,7 @@ A plugin for [llm](https://github.com/simonw/llm) that loads Reddit threads as f
 Install using pip:
 
 ```bash
-pip install llm-fragments-reddit
+llm install llm-fragments-reddit
 ```
 
 Or for development:

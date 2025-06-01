@@ -2,7 +2,7 @@
 name = "llm-fragments-reddit"
 authors = [{ name = "banteg" }]
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 description = "A plugin for llm to load Reddit threads as fragments"
 readme = "README.md"
 requires-python = ">=3.12"
