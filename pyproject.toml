@@ -1,0 +1,12 @@
+[project]
+name = "llm-fragments-reddit"
+authors = [{ name = "banteg" }]
+license = "MIT"
+version = "0.1.0"
+description = "A plugin for llm to load Reddit threads as fragments"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["llm>=0.26", "requests>=2.32.3"]
+
+[project.entry-points.llm]
+fragments_reddit = "llm_fragments_reddit"
